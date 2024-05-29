@@ -1,5 +1,5 @@
 %% Load Data
-load('eccCrowdingData.mat');
+load('X:\Ashley\EccentriciyCrowdingData\eccCrowdingData.mat')
 
 
 %% Plot All Thresholds in logMAR
